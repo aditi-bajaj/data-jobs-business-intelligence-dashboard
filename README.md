@@ -57,7 +57,7 @@ This structure enables accurate filtering and aggregation across many-to-many re
 
 ### Data Model
 
-![Data Model](images/data_model/data_model_relationships.png)
+![Data Model](images/data_model/data_model_relationship.png)
 
 ---
 
